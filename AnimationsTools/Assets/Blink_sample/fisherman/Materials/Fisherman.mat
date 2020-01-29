@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fisherman
+  m_Shader: {fileID: 4800000, guid: 4806100e9be304b0cad90dbe8677c8d4, type: 3}
+  m_ShaderKeywords: AMBIENT_OCCLUSION COLOURISE_ON USE_SECOND_MAP
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AO:
+        m_Texture: {fileID: 2800000, guid: c56d9699411c448d2bc6910508883d80, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LUT:
+        m_Texture: {fileID: 2800000, guid: 684b77f3d2ab8485bb7c1f5275ad9393, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2947a77adeafe462696364224153a976, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 121e2d4be07e947b0b38ea1e40f9bf54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReplaceMap1:
+        m_Texture: {fileID: 2800000, guid: cd8b5f999f5c345acaf6d2324e0ba3d6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReplaceMap2:
+        m_Texture: {fileID: 2800000, guid: b9660ec9f3be64f6d81960154f7b4af5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AOS: 1
+    - _Gloss: 0.15
+    - _Glossiness: 0.297
+    - _Metallic: 0
+    - _MetallicOverride1: 0.5
+    - _MetallicOverride2: 0.299
+    - _OcclusionStrength: 0.65
+    - _RimPower: 4
+    - _ScatterWidth: 0.505
+    - _Shininess: 0.132
+    - _SmoothnessOverride1: 0.5
+    - _SmoothnessOverride2: 0.71
+    - _Specular: 0.2
+    - _Stencil: 7
+    - _StencilComp: 6
+    - _StencilWriteMask: 2
+    - _UseAmbientOcclusion: 1
+    - _UseRim: 1
+    - _UseSecondMap: 1
+    - _UseSpecularMap: 0
+    - _Wrap: 0.654
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 1}
+    - _Replace1A: {r: 1, g: 1, b: 1, a: 1}
+    - _Replace1B: {r: 1, g: 1, b: 1, a: 1}
+    - _Replace2A: {r: 1, g: 1, b: 1, a: 1}
+    - _Replace2B: {r: 1, g: 1, b: 1, a: 1}
+    - _RimColor: {r: 1, g: 1, b: 1, a: 0.39}
+    - _ScatterColor: {r: 0.13235295, g: 0.07882786, b: 0.07882786, a: 1}
+    - _SpecColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _SpecialGlowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _WrapColor: {r: 0.1, g: 0.1, b: 0.1, a: 1}

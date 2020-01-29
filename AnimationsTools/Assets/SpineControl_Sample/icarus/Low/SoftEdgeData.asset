@@ -1,0 +1,1458 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1999428446, guid: 197865835ef33451b9bd2c79e5d3c794, type: 3}
+  m_Name: SoftEdgeData
+  m_EditorClassIdentifier: 
+  SoftEdgeSets:
+  - MeshName: char:body
+    Pairs:
+    - Indices: 05000000
+    - Indices: 
+    - Indices: 0b000000
+    - Indices: 0a000000
+    - Indices: 
+    - Indices: 00000000
+    - Indices: 09000000
+    - Indices: 0c000000
+    - Indices: 0d000000
+    - Indices: 06000000
+    - Indices: 03000000
+    - Indices: 02000000
+    - Indices: 07000000
+    - Indices: 08000000
+    - Indices: 
+    - Indices: 
+    - Indices: 28000000
+    - Indices: 1700000027000000
+    - Indices: 
+    - Indices: 2c000000
+    - Indices: 1d0000002b000000
+    - Indices: 1a00000023000000
+    - Indices: 1f000000
+    - Indices: 1100000027000000
+    - Indices: 2000000026000000
+    - Indices: 240000002d000000
+    - Indices: 1500000023000000
+    - Indices: 2100000029000000
+    - Indices: 22000000
+    - Indices: 140000002b000000
+    - Indices: 250000002a000000
+    - Indices: 16000000
+    - Indices: 1800000026000000
+    - Indices: 1b00000029000000
+    - Indices: 1c000000
+    - Indices: 150000001a000000
+    - Indices: 190000002d000000
+    - Indices: 1e0000002a000000
+    - Indices: 1800000020000000
+    - Indices: 1100000017000000
+    - Indices: 10000000
+    - Indices: 1b00000021000000
+    - Indices: 1e00000025000000
+    - Indices: 140000001d000000
+    - Indices: 13000000
+    - Indices: 1900000024000000
+    - Indices: 
+    - Indices: 
+    - Indices: 71000000
+    - Indices: 70000000
+    - Indices: 74000000
+    - Indices: 
+    - Indices: 76000000
+    - Indices: 
+    - Indices: 58000000
+    - Indices: 590000006d00000080000000
+    - Indices: 780000007e000000
+    - Indices: 
+    - Indices: 7a000000
+    - Indices: 7b000000
+    - Indices: 
+    - Indices: 8c0000009200000094000000
+    - Indices: 7d00000091000000
+    - Indices: 8d000000
+    - Indices: 75000000
+    - Indices: 73000000
+    - Indices: 66000000
+    - Indices: 65000000
+    - Indices: 67000000
+    - Indices: 5b00000062000000
+    - Indices: 610000006e000000770000007f000000
+    - Indices: 68000000
+    - Indices: 5c000000
+    - Indices: 72000000
+    - Indices: 6a000000
+    - Indices: 69000000
+    - Indices: 88000000
+    - Indices: 8300000089000000
+    - Indices: 6c000000
+    - Indices: 79000000
+    - Indices: 6b000000
+    - Indices: 7c000000840000009300000096000000
+    - Indices: 5e000000
+    - Indices: 87000000
+    - Indices: 5d000000
+    - Indices: 5f000000
+    - Indices: 600000006f000000
+    - Indices: 5a00000063000000
+    - Indices: 36000000
+    - Indices: 370000006d00000080000000
+    - Indices: 5700000063000000
+    - Indices: 4500000062000000
+    - Indices: 48000000
+    - Indices: 54000000
+    - Indices: 52000000
+    - Indices: 55000000
+    - Indices: 6f00000056000000
+    - Indices: 460000006e000000770000007f000000
+    - Indices: 450000005b000000
+    - Indices: 570000005a000000
+    - Indices: 
+    - Indices: 43000000
+    - Indices: 42000000
+    - Indices: 44000000
+    - Indices: 47000000
+    - Indices: 4b000000
+    - Indices: 4a000000
+    - Indices: 50000000
+    - Indices: 4e000000
+    - Indices: 370000008000000059000000
+    - Indices: 4600000061000000770000007f000000
+    - Indices: 6000000056000000
+    - Indices: 31000000
+    - Indices: 30000000
+    - Indices: 49000000
+    - Indices: 41000000
+    - Indices: 32000000
+    - Indices: 40000000
+    - Indices: 34000000
+    - Indices: 46000000610000006e0000007f000000
+    - Indices: 380000007e000000
+    - Indices: 4f000000
+    - Indices: 3a000000
+    - Indices: 3b000000
+    - Indices: 51000000840000009300000096000000
+    - Indices: 3e00000091000000
+    - Indices: 3800000078000000
+    - Indices: 46000000610000006e00000077000000
+    - Indices: 370000006d00000059000000
+    - Indices: 8b00000095000000
+    - Indices: 8a00000090000000
+    - Indices: 4d00000089000000
+    - Indices: 510000007c0000009300000096000000
+    - Indices: 8f000000
+    - Indices: 8e000000
+    - Indices: 53000000
+    - Indices: 4c000000
+    - Indices: 4d00000083000000
+    - Indices: 8200000090000000
+    - Indices: 8100000095000000
+    - Indices: 3d0000009200000094000000
+    - Indices: 3f000000
+    - Indices: 86000000
+    - Indices: 85000000
+    - Indices: 820000008a000000
+    - Indices: 3e0000007d000000
+    - Indices: 3d000000940000008c000000
+    - Indices: 510000007c0000008400000096000000
+    - Indices: 3d000000920000008c000000
+    - Indices: 810000008b000000
+    - Indices: 510000007c0000008400000093000000
+    - Indices: b7000000
+    - Indices: a9000000
+    - Indices: ac000000
+    - Indices: c0000000
+    - Indices: ae000000
+    - Indices: c2000000
+    - Indices: b0000000
+    - Indices: c4000000
+    - Indices: b2000000
+    - Indices: ba000000
+    - Indices: b4000000
+    - Indices: bc000000
+    - Indices: b6000000
+    - Indices: be000000
+    - Indices: b5000000
+    - Indices: bd000000
+    - Indices: af000000
+    - Indices: c3000000
+    - Indices: 98000000
+    - Indices: 
+    - Indices: 
+    - Indices: 99000000
+    - Indices: 
+    - Indices: 9b000000
+    - Indices: a7000000
+    - Indices: 9d000000
+    - Indices: 
+    - Indices: 9f000000
+    - Indices: 
+    - Indices: a1000000
+    - Indices: a5000000
+    - Indices: a3000000
+    - Indices: 97000000
+    - Indices: 
+    - Indices: 
+    - Indices: a0000000
+    - Indices: 
+    - Indices: a2000000
+    - Indices: a6000000
+    - Indices: a4000000
+    - Indices: 
+    - Indices: 9a000000
+    - Indices: 
+    - Indices: 9c000000
+    - Indices: a8000000
+    - Indices: 9e000000
+    - Indices: d6000000
+    - Indices: 03010000
+    - Indices: 02010000
+    - Indices: 01010000
+    - Indices: 
+    - Indices: 
+    - Indices: d5000000
+    - Indices: 
+    - Indices: 
+    - Indices: dc00000008010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: cb000000
+    - Indices: c5000000
+    - Indices: e5000000
+    - Indices: e8000000
+    - Indices: 8f010000ad010000
+    - Indices: e70000009d010000ac010000
+    - Indices: 90010000
+    - Indices: ce00000008010000
+    - Indices: 92010000
+    - Indices: 04010000
+    - Indices: 94010000
+    - Indices: 05010000
+    - Indices: 06010000
+    - Indices: 96010000
+    - Indices: 07010000
+    - Indices: 98010000
+    - Indices: d7000000
+    - Indices: 9a010000
+    - Indices: da0000009d010000ac010000
+    - Indices: d8000000
+    - Indices: f2000000
+    - Indices: f1000000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: ea000000
+    - Indices: e9000000
+    - Indices: 0b010000
+    - Indices: 0a010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 0d010000
+    - Indices: 09010000
+    - Indices: 0c010000
+    - Indices: 0e010000
+    - Indices: c8000000
+    - Indices: c7000000
+    - Indices: c6000000
+    - Indices: de000000
+    - Indices: e0000000
+    - Indices: e1000000
+    - Indices: e3000000
+    - Indices: ce000000dc000000
+    - Indices: fe000000
+    - Indices: f4000000
+    - Indices: f3000000
+    - Indices: ff000000
+    - Indices: fd000000
+    - Indices: 00010000
+    - Indices: 20010000
+    - Indices: 4b010000
+    - Indices: 4c010000
+    - Indices: 4d010000
+    - Indices: 
+    - Indices: 
+    - Indices: 1f010000
+    - Indices: 
+    - Indices: 
+    - Indices: 2601000052010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 15010000
+    - Indices: 0f010000
+    - Indices: 2f010000
+    - Indices: 32010000
+    - Indices: 550300005a030000
+    - Indices: 310100004703000059030000
+    - Indices: 56030000
+    - Indices: 1801000052010000
+    - Indices: 58030000
+    - Indices: 4e010000
+    - Indices: 4d030000
+    - Indices: 4f010000
+    - Indices: 50010000
+    - Indices: 4b030000
+    - Indices: 51010000
+    - Indices: 49030000
+    - Indices: 21010000
+    - Indices: 46030000
+    - Indices: 240100004703000059030000
+    - Indices: 22010000
+    - Indices: 3c010000
+    - Indices: 
+    - Indices: 
+    - Indices: 3b010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 36010000
+    - Indices: 33010000
+    - Indices: 55010000
+    - Indices: 
+    - Indices: 
+    - Indices: 56010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 57010000
+    - Indices: 53010000
+    - Indices: 54010000
+    - Indices: 58010000
+    - Indices: 10010000
+    - Indices: 11010000
+    - Indices: 12010000
+    - Indices: 28010000
+    - Indices: 2a010000
+    - Indices: 2b010000
+    - Indices: 2d010000
+    - Indices: 1801000026010000
+    - Indices: 48010000
+    - Indices: 49010000
+    - Indices: 3d010000
+    - Indices: 40010000
+    - Indices: 47010000
+    - Indices: 4a010000
+    - Indices: db020000
+    - Indices: d5020000
+    - Indices: 
+    - Indices: 
+    - Indices: 6b010000
+    - Indices: 6c010000d3020000ee020000
+    - Indices: dc020000
+    - Indices: 
+    - Indices: f2020000
+    - Indices: 
+    - Indices: f1020000
+    - Indices: 
+    - Indices: e7020000
+    - Indices: 
+    - Indices: ea020000
+    - Indices: 
+    - Indices: ec020000
+    - Indices: 
+    - Indices: 5d010000
+    - Indices: d3020000ee0200005e010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 75010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 71010000
+    - Indices: 
+    - Indices: 
+    - Indices: 7a010000
+    - Indices: 
+    - Indices: 78010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: a5010000
+    - Indices: a3010000
+    - Indices: a7010000
+    - Indices: a9010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 8c010000a1010000b0010000
+    - Indices: ae010000
+    - Indices: 
+    - Indices: a2010000
+    - Indices: 88010000a1010000b0010000
+    - Indices: 
+    - Indices: ab010000
+    - Indices: ad010000d9000000
+    - Indices: db000000
+    - Indices: 
+    - Indices: dd000000
+    - Indices: 
+    - Indices: df000000
+    - Indices: 
+    - Indices: e2000000
+    - Indices: 
+    - Indices: e4000000
+    - Indices: 
+    - Indices: e6000000
+    - Indices: 
+    - Indices: 
+    - Indices: da000000ac010000e7000000
+    - Indices: 
+    - Indices: 
+    - Indices: af010000
+    - Indices: 880100008c010000b0010000
+    - Indices: 8b010000
+    - Indices: 82010000
+    - Indices: 
+    - Indices: 81010000
+    - Indices: 
+    - Indices: 83010000
+    - Indices: 
+    - Indices: 84010000
+    - Indices: 
+    - Indices: 8e010000
+    - Indices: da0000009d010000e7000000
+    - Indices: 8f010000d9000000
+    - Indices: 89010000
+    - Indices: a0010000
+    - Indices: 880100008c010000a1010000
+    - Indices: d4010000
+    - Indices: 
+    - Indices: c6010000
+    - Indices: c7010000d5010000
+    - Indices: d6010000
+    - Indices: 
+    - Indices: d7010000
+    - Indices: 
+    - Indices: d8010000
+    - Indices: 
+    - Indices: c8010000de010000f3010000
+    - Indices: df010000
+    - Indices: e3010000
+    - Indices: e5010000
+    - Indices: e7010000
+    - Indices: 
+    - Indices: ee010000
+    - Indices: 
+    - Indices: f0010000
+    - Indices: 
+    - Indices: 
+    - Indices: b3010000
+    - Indices: b4010000d5010000
+    - Indices: bb010000de010000f3010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: da010000
+    - Indices: db010000
+    - Indices: 
+    - Indices: dc010000
+    - Indices: 
+    - Indices: dd010000
+    - Indices: d9010000
+    - Indices: 
+    - Indices: b1010000
+    - Indices: b4010000c7010000
+    - Indices: b5010000
+    - Indices: b7010000
+    - Indices: b9010000
+    - Indices: d2010000
+    - Indices: cc010000
+    - Indices: cd010000
+    - Indices: cf010000
+    - Indices: d1010000
+    - Indices: bb010000c8010000f3010000
+    - Indices: bc010000
+    - Indices: 
+    - Indices: f2010000
+    - Indices: 
+    - Indices: bd010000
+    - Indices: 
+    - Indices: be010000
+    - Indices: 
+    - Indices: bf010000
+    - Indices: 
+    - Indices: f7010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: c1010000
+    - Indices: 
+    - Indices: c3010000
+    - Indices: 
+    - Indices: e1010000
+    - Indices: bb010000c8010000de010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: e9010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 0b020000
+    - Indices: 0c02000079020000
+    - Indices: 04030000
+    - Indices: 03030000
+    - Indices: 
+    - Indices: 02030000
+    - Indices: 
+    - Indices: 0103000029030000
+    - Indices: 
+    - Indices: 28030000
+    - Indices: 27030000
+    - Indices: 
+    - Indices: 77020000
+    - Indices: 
+    - Indices: 78020000
+    - Indices: fc010000
+    - Indices: 79020000fd010000
+    - Indices: c3020000c8020000
+    - Indices: a0020000
+    - Indices: 
+    - Indices: 
+    - Indices: 9a020000
+    - Indices: 20020000
+    - Indices: 2102000098020000b4020000
+    - Indices: a1020000
+    - Indices: 
+    - Indices: a3020000
+    - Indices: 
+    - Indices: b7020000
+    - Indices: 
+    - Indices: ad020000
+    - Indices: 
+    - Indices: b0020000
+    - Indices: 
+    - Indices: b1020000
+    - Indices: 
+    - Indices: 12020000
+    - Indices: 98020000b402000013020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 41030000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 3f030000
+    - Indices: 
+    - Indices: 
+    - Indices: 39030000
+    - Indices: 
+    - Indices: 38030000
+    - Indices: 
+    - Indices: 3c030000
+    - Indices: 390200003e03000051030000
+    - Indices: 38020000
+    - Indices: 37020000
+    - Indices: 360200003e03000051030000
+    - Indices: 3b020000
+    - Indices: 3a020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 89020000
+    - Indices: 590200008b020000
+    - Indices: 58020000
+    - Indices: 
+    - Indices: 8a020000
+    - Indices: 
+    - Indices: 8c020000
+    - Indices: 
+    - Indices: 8d020000
+    - Indices: 
+    - Indices: 
+    - Indices: 5a0200007d02000088020000
+    - Indices: 7c020000
+    - Indices: 7e020000
+    - Indices: 80020000
+    - Indices: 82020000
+    - Indices: 84020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 86020000
+    - Indices: 
+    - Indices: 42020000
+    - Indices: 410200008b020000
+    - Indices: 4b0200007d02000088020000
+    - Indices: 
+    - Indices: 
+    - Indices: 91020000
+    - Indices: 92020000
+    - Indices: 8e020000
+    - Indices: 90020000
+    - Indices: 
+    - Indices: 8f020000
+    - Indices: 
+    - Indices: 7a020000
+    - Indices: 75020000
+    - Indices: 
+    - Indices: 76020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 65020000
+    - Indices: 67020000
+    - Indices: 08020000
+    - Indices: 0a020000
+    - Indices: 0c020000fd010000
+    - Indices: 64020000
+    - Indices: 
+    - Indices: 4c020000
+    - Indices: 4b0200005a02000088020000
+    - Indices: 4d020000
+    - Indices: 
+    - Indices: 4e020000
+    - Indices: 
+    - Indices: 4f020000
+    - Indices: 
+    - Indices: 50020000
+    - Indices: 
+    - Indices: 56020000
+    - Indices: 
+    - Indices: 4b0200005a0200007d020000
+    - Indices: 40020000
+    - Indices: 44020000
+    - Indices: 4102000059020000
+    - Indices: 46020000
+    - Indices: 48020000
+    - Indices: 5f020000
+    - Indices: 62020000
+    - Indices: 60020000
+    - Indices: 5d020000
+    - Indices: 5e020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: b5020000
+    - Indices: 21020000b402000013020000
+    - Indices: 
+    - Indices: 11020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 0e020000
+    - Indices: 14020000
+    - Indices: 
+    - Indices: 16020000
+    - Indices: 
+    - Indices: 
+    - Indices: 0f030000
+    - Indices: 
+    - Indices: 0c030000
+    - Indices: 11030000
+    - Indices: 
+    - Indices: 13030000
+    - Indices: 
+    - Indices: 1a020000
+    - Indices: 050300002303000080030000
+    - Indices: 06030000
+    - Indices: 1c020000
+    - Indices: 1e020000
+    - Indices: 07030000
+    - Indices: 08030000
+    - Indices: 210200009802000013020000
+    - Indices: 97020000
+    - Indices: 09030000
+    - Indices: 18020000
+    - Indices: 0a030000
+    - Indices: cc020000
+    - Indices: c0020000cd020000
+    - Indices: bf020000
+    - Indices: be0200000b030000
+    - Indices: 140300006603000081030000
+    - Indices: bc0200000b030000
+    - Indices: bb020000
+    - Indices: ba020000cd020000
+    - Indices: cb020000
+    - Indices: c9020000
+    - Indices: 0d020000c8020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 0d020000c3020000
+    - Indices: c2020000
+    - Indices: 
+    - Indices: c1020000
+    - Indices: b9020000
+    - Indices: ba020000c0020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: ef020000
+    - Indices: ee0200006c0100005e010000
+    - Indices: 
+    - Indices: 5a010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 59010000
+    - Indices: 5f010000
+    - Indices: 
+    - Indices: 
+    - Indices: 19030000
+    - Indices: 
+    - Indices: 17030000
+    - Indices: 
+    - Indices: 1b030000
+    - Indices: 
+    - Indices: 1d030000
+    - Indices: 
+    - Indices: 65010000
+    - Indices: 
+    - Indices: 
+    - Indices: 67010000
+    - Indices: 
+    - Indices: 69010000
+    - Indices: 
+    - Indices: d30200006c0100005e010000
+    - Indices: d2020000
+    - Indices: 
+    - Indices: 63010000
+    - Indices: 61010000
+    - Indices: 1f030000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 21030000
+    - Indices: 
+    - Indices: 25030000
+    - Indices: 
+    - Indices: 
+    - Indices: 2903000003020000
+    - Indices: 01020000
+    - Indices: ff010000
+    - Indices: fe010000
+    - Indices: 2303000080030000ae020000
+    - Indices: af020000
+    - Indices: b2020000
+    - Indices: b3020000
+    - Indices: b6020000
+    - Indices: b8020000
+    - Indices: bc020000be020000
+    - Indices: a8020000
+    - Indices: 5f030000
+    - Indices: 61030000
+    - Indices: a6020000
+    - Indices: 63030000
+    - Indices: a9020000
+    - Indices: 65030000
+    - Indices: ab020000
+    - Indices: 6603000081030000bd020000
+    - Indices: 
+    - Indices: 5c030000
+    - Indices: e1020000
+    - Indices: 72030000
+    - Indices: df020000
+    - Indices: 74030000
+    - Indices: e3020000
+    - Indices: 76030000
+    - Indices: e5020000
+    - Indices: 78030000
+    - Indices: f3020000
+    - Indices: 7a030000
+    - Indices: fc020000
+    - Indices: 7c030000
+    - Indices: 0503000080030000ae020000
+    - Indices: 
+    - Indices: fe020000
+    - Indices: 
+    - Indices: 06020000
+    - Indices: 05020000
+    - Indices: 0103000003020000
+    - Indices: 6a030000
+    - Indices: 
+    - Indices: 69030000
+    - Indices: 6b030000
+    - Indices: 6c030000
+    - Indices: 6d030000
+    - Indices: 7d030000
+    - Indices: 7e030000
+    - Indices: 7f030000
+    - Indices: 83030000
+    - Indices: 6803000082030000
+    - Indices: 6e030000
+    - Indices: 6f03000070030000
+    - Indices: 
+    - Indices: 33020000
+    - Indices: 31020000
+    - Indices: 
+    - Indices: 
+    - Indices: 35020000
+    - Indices: 52030000
+    - Indices: 360200003902000051030000
+    - Indices: 2e020000
+    - Indices: 
+    - Indices: 26020000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 30010000
+    - Indices: 590300002401000031010000
+    - Indices: 
+    - Indices: 2e010000
+    - Indices: 
+    - Indices: 2c010000
+    - Indices: 
+    - Indices: 29010000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 36020000390200003e030000
+    - Indices: 3d030000
+    - Indices: 
+    - Indices: 5b030000
+    - Indices: 5a03000023010000
+    - Indices: 25010000
+    - Indices: 
+    - Indices: 27010000
+    - Indices: 470300002401000031010000
+    - Indices: 5503000023010000
+    - Indices: 54030000
+    - Indices: 16030000
+    - Indices: 
+    - Indices: 
+    - Indices: 0d030000
+    - Indices: 
+    - Indices: 0e030000
+    - Indices: 
+    - Indices: 10030000
+    - Indices: 
+    - Indices: 12030000
+    - Indices: 1403000081030000bd020000
+    - Indices: 
+    - Indices: 3403000082030000
+    - Indices: 2c030000
+    - Indices: 2a030000
+    - Indices: 2d030000
+    - Indices: 2e030000
+    - Indices: 2f030000
+    - Indices: 35030000
+    - Indices: 3603000070030000
+    - Indices: 360300006f030000
+    - Indices: 
+    - Indices: 18030000
+    - Indices: 
+    - Indices: 1a030000
+    - Indices: 
+    - Indices: 1c030000
+    - Indices: 
+    - Indices: 1e030000
+    - Indices: 
+    - Indices: 20030000
+    - Indices: 
+    - Indices: 22030000
+    - Indices: 30030000
+    - Indices: 31030000
+    - Indices: 32030000
+    - Indices: 0503000023030000ae020000
+    - Indices: 1403000066030000bd020000
+    - Indices: 3403000068030000
+    - Indices: 33030000
+    - Indices: 
+    - Indices: a9030000
+    - Indices: ab030000
+    - Indices: 9e030000
+    - Indices: 9c030000
+    - Indices: 9a030000
+    - Indices: a7030000
+    - Indices: 98030000
+    - Indices: a5030000
+    - Indices: 96030000
+    - Indices: a3030000
+    - Indices: a1030000
+    - Indices: 94030000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 90030000
+    - Indices: 
+    - Indices: 8d030000
+    - Indices: 
+    - Indices: 8b030000
+    - Indices: 
+    - Indices: 89030000
+    - Indices: 
+    - Indices: 88030000
+    - Indices: 
+    - Indices: 87030000
+    - Indices: 
+    - Indices: 
+    - Indices: 8f030000
+    - Indices: 
+    - Indices: 8e030000
+    - Indices: 
+    - Indices: 8c030000
+    - Indices: 
+    - Indices: 8a030000
+    - Indices: 
+    - Indices: 85030000
+    - Indices: 
+    - Indices: 86030000
+    - Indices: 
+    - Indices: b7030000
+    - Indices: b5030000
+    - Indices: 
+    - Indices: b8030000
+    - Indices: b9030000
+    - Indices: 
+    - Indices: ba030000
+    - Indices: b6030000
+    - Indices: ae030000
+    - Indices: b4030000
+    - Indices: ad030000
+    - Indices: b0030000
+    - Indices: b1030000
+    - Indices: b3030000
+    - Indices: 
+    - Indices: c4030000d6030000
+    - Indices: d5030000
+    - Indices: 
+    - Indices: 
+    - Indices: d9030000
+    - Indices: ca030000da030000
+    - Indices: c7030000d0030000
+    - Indices: cc030000
+    - Indices: bc030000d6030000
+    - Indices: cf030000d3030000
+    - Indices: d1030000d8030000
+    - Indices: c2030000d0030000
+    - Indices: ce030000d4030000
+    - Indices: cd030000
+    - Indices: c1030000da030000
+    - Indices: d2030000d7030000
+    - Indices: c3030000
+    - Indices: c9030000
+    - Indices: c8030000d4030000
+    - Indices: c5030000d3030000
+    - Indices: c2030000c7030000
+    - Indices: c6030000d8030000
+    - Indices: cb030000d7030000
+    - Indices: c5030000cf030000
+    - Indices: c8030000ce030000
+    - Indices: bd030000
+    - Indices: bc030000c4030000
+    - Indices: cb030000d2030000
+    - Indices: c6030000d1030000
+    - Indices: c0030000
+    - Indices: c1030000ca030000
+    - Indices: e9030000
+    - Indices: e80300001a0400006b040000
+    - Indices: ee03000054040000
+    - Indices: ed030000
+    - Indices: ec030000
+    - Indices: f2030000
+    - Indices: eb030000
+    - Indices: f1030000
+    - Indices: ea030000
+    - Indices: f0030000
+    - Indices: e70300001b0400003f040000
+    - Indices: ef03000041040000
+    - Indices: e50300001b0400003f040000
+    - Indices: dc0300001a0400006b040000
+    - Indices: db030000
+    - Indices: e3030000
+    - Indices: e1030000
+    - Indices: df030000
+    - Indices: de030000
+    - Indices: dd03000054040000
+    - Indices: e603000041040000
+    - Indices: e4030000
+    - Indices: e2030000
+    - Indices: e0030000
+    - Indices: 
+    - Indices: 
+    - Indices: 07040000
+    - Indices: 0b040000
+    - Indices: 
+    - Indices: 
+    - Indices: 3d040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 21040000
+    - Indices: 20040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: f5030000
+    - Indices: 76040000
+    - Indices: 
+    - Indices: 
+    - Indices: f6030000
+    - Indices: 
+    - Indices: 6a040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 3e040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 22040000
+    - Indices: 
+    - Indices: dc030000e80300006b040000
+    - Indices: e5030000e70300003f040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: fe030000
+    - Indices: fd030000
+    - Indices: 18040000
+    - Indices: 
+    - Indices: 3c040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 6d040000
+    - Indices: 6c0400007b04000087040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 5b040000
+    - Indices: 
+    - Indices: 73040000
+    - Indices: 
+    - Indices: 
+    - Indices: 5c0400008204000084040000
+    - Indices: 
+    - Indices: 
+    - Indices: 5e040000
+    - Indices: 43040000
+    - Indices: 60040000
+    - Indices: 44040000
+    - Indices: 24040000
+    - Indices: f9030000
+    - Indices: 14040000
+    - Indices: e5030000e70300001b040000
+    - Indices: 
+    - Indices: e6030000ef030000
+    - Indices: 
+    - Indices: 39040000
+    - Indices: 3b040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: dd030000ee030000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 30040000
+    - Indices: 350400008204000084040000
+    - Indices: 830400008c040000
+    - Indices: 38040000
+    - Indices: 
+    - Indices: 3a040000
+    - Indices: 
+    - Indices: 
+    - Indices: 7a0400008d040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 0d040000
+    - Indices: dc030000e80300001a040000
+    - Indices: 2b0400007b04000087040000
+    - Indices: 2a040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 32040000
+    - Indices: 
+    - Indices: 
+    - Indices: 08040000
+    - Indices: 
+    - Indices: 86040000
+    - Indices: 8a040000
+    - Indices: 630400008d040000
+    - Indices: 2b0400006c04000087040000
+    - Indices: 89040000
+    - Indices: 8f040000
+    - Indices: 88040000
+    - Indices: 8e040000
+    - Indices: 85040000
+    - Indices: 8b040000
+    - Indices: 350400005c04000084040000
+    - Indices: 5d0400008c040000
+    - Indices: 350400005c04000082040000
+    - Indices: 80040000
+    - Indices: 78040000
+    - Indices: 2b0400006c0400007b040000
+    - Indices: 7e040000
+    - Indices: 7c040000
+    - Indices: 79040000
+    - Indices: 81040000
+    - Indices: 5d04000083040000
+    - Indices: 630400007a040000
+    - Indices: 7f040000
+    - Indices: 7d040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: e8040000
+    - Indices: ee040000
+    - Indices: ef040000
+    - Indices: e5040000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: e6040000
+    - Indices: e7040000
+    - Indices: 28050000
+    - Indices: 170500002b050000
+    - Indices: 1b0500002c050000
+    - Indices: 2f050000
+    - Indices: 24050000
+    - Indices: 1605000027050000
+    - Indices: 060500000f050000
+    - Indices: 09050000
+    - Indices: 070500000e050000
+    - Indices: 0c05000011050000
+    - Indices: 0b050000
+    - Indices: 08050000
+    - Indices: 0a050000
+    - Indices: 0d05000010050000
+    - Indices: 14050000
+    - Indices: 
+    - Indices: 15050000
+    - Indices: 
+    - Indices: 13050000
+    - Indices: 
+    - Indices: 23050000
+    - Indices: 1205000020050000
+    - Indices: f60400000f050000
+    - Indices: f80400000e050000
+    - Indices: fb040000
+    - Indices: f7040000
+    - Indices: fc040000
+    - Indices: fa040000
+    - Indices: f904000011050000
+    - Indices: fd04000010050000
+    - Indices: f804000007050000
+    - Indices: f604000006050000
+    - Indices: fd0400000d050000
+    - Indices: f90400000c050000
+    - Indices: 0505000020050000
+    - Indices: 02050000
+    - Indices: fe040000
+    - Indices: 00050000
+    - Indices: f504000027050000
+    - Indices: f10400002b050000
+    - Indices: 1c0500002a050000
+    - Indices: 1f05000021050000
+    - Indices: 260500002d050000
+    - Indices: f20400002c050000
+    - Indices: 180500002a050000
+    - Indices: 29050000
+    - Indices: 22050000
+    - Indices: 1905000021050000
+    - Indices: 0505000012050000
+    - Indices: 190500001f050000
+    - Indices: 1e050000
+    - Indices: 04050000
+    - Indices: f4040000
+    - Indices: 2e050000
+    - Indices: 1a0500002d050000
+    - Indices: f504000016050000
+    - Indices: f0040000
+    - Indices: 1d050000
+    - Indices: 180500001c050000
+    - Indices: f104000017050000
+    - Indices: f20400001b050000
+    - Indices: 1a05000026050000
+    - Indices: 25050000
+    - Indices: f3040000
+    - Indices: 46050000
+    - Indices: 45050000
+    - Indices: 3a050000
+    - Indices: 3d050000
+    - Indices: 49050000990500009c050000
+    - Indices: 3e0500008c0500009405000098050000
+    - Indices: 4a050000
+    - Indices: 41050000
+    - Indices: 4d050000
+    - Indices: 42050000
+    - Indices: 32050000
+    - Indices: 
+    - Indices: 
+    - Indices: 33050000
+    - Indices: 350500008c0500009405000098050000
+    - Indices: 8b050000
+    - Indices: 
+    - Indices: 37050000
+    - Indices: 39050000
+    - Indices: 
+    - Indices: 
+    - Indices: 31050000
+    - Indices: 30050000
+    - Indices: 
+    - Indices: 9d050000
+    - Indices: 34050000990500009c050000
+    - Indices: 36050000
+    - Indices: 
+    - Indices: 
+    - Indices: 38050000
+    - Indices: 6c050000
+    - Indices: 6b050000
+    - Indices: 5c050000
+    - Indices: 5f050000
+    - Indices: 6f050000
+    - Indices: 60050000
+    - Indices: 62050000
+    - Indices: 71050000
+    - Indices: 64050000
+    - Indices: 73050000
+    - Indices: 67050000
+    - Indices: 74050000
+    - Indices: 690500009005000095050000
+    - Indices: 7605000097050000a0050000
+    - Indices: 50050000
+    - Indices: 
+    - Indices: 
+    - Indices: 51050000
+    - Indices: 53050000
+    - Indices: 
+    - Indices: 54050000
+    - Indices: 
+    - Indices: 56050000
+    - Indices: 
+    - Indices: 
+    - Indices: 58050000
+    - Indices: 91050000
+    - Indices: 5a0500009005000095050000
+    - Indices: 
+    - Indices: 4f050000
+    - Indices: 4e050000
+    - Indices: 
+    - Indices: 
+    - Indices: 52050000
+    - Indices: 
+    - Indices: 55050000
+    - Indices: 
+    - Indices: 57050000
+    - Indices: 59050000
+    - Indices: 
+    - Indices: 5b05000097050000a0050000
+    - Indices: 9f050000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 86050000
+    - Indices: 8f05000092050000
+    - Indices: 880500008d05000093050000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 8e050000
+    - Indices: 
+    - Indices: 
+    - Indices: 
+    - Indices: 7b050000
+    - Indices: 8a050000
+    - Indices: 7d0500008d05000093050000
+    - Indices: 
+    - Indices: 87050000
+    - Indices: 3f050000
+    - Indices: 350500003e0500009405000098050000
+    - Indices: 7d0500008805000093050000
+    - Indices: 82050000
+    - Indices: 7c05000092050000
+    - Indices: 5a0500006905000095050000
+    - Indices: 68050000
+    - Indices: 7c0500008f050000
+    - Indices: 7d050000880500008d050000
+    - Indices: 350500003e0500008c05000098050000
+    - Indices: 5a0500006905000090050000
+    - Indices: 9a0500009b050000
+    - Indices: 5b05000076050000a0050000
+    - Indices: 350500003e0500008c05000094050000
+    - Indices: 34050000490500009c050000
+    - Indices: 960500009b050000
+    - Indices: 960500009a050000
+    - Indices: 340500004905000099050000
+    - Indices: 48050000
+    - Indices: 
+    - Indices: 77050000
+    - Indices: 5b0500007605000097050000
+    Type: 0
